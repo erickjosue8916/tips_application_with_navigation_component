@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tips_para_un_mejor_desarrollador">Tips para un mejor desarrollador</string>
+    <string name="home_description">Para desarrollar no solo hace falta escribir codigo y que compile te presentamos unos consejos para un mejor desarrollo</string>
+    <string name="home_start">comenzar</string>
+    <string name="page_1_title">Usa un controlador de versiones para tu codigo</string>
+    <string name="page_1_body">Esta ya no es una opcion sino que llega a ser practicamente obligatorio ya en el mundo laboral y por lo que si aun no trabajar de manera formal no esta de mas adoptar esta practica</string>
+    <string name="page_2_title">Usa un cliente remoto para alojar tu codigo</string>
+    <string name="page_2_body">Tomando siempre base del primer tip, esta es una manera excelente para trabajar en equipo donde con un par de comandos se puedae acceder al trabajo del equipo</string>
+    <string name="page_3_title">Clean Code</string>
+    <string name="page_3_body">Trabajar limpio es importante para proyectos a largo plazo y seguir siertas pautas o reglas que permitan hacer un codigo mas legible ayudara al desarrollador que retome el proyecto en un futuro</string>
+    <string name="btn_back">Regresar</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_next">Siguiente</string>
+
+</resources>
